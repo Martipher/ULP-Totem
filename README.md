@@ -56,6 +56,6 @@ Case Parts:
 | Rubber Feet   			 | 08 | Any rubber feet you find online should work |
 
 ## Images
-![](images/1.png)
-![](images/2.png)
-![](images/3.png)
+![](Images/1.png)
+![](Images/2.png)
+![](Images/3.png)
