@@ -40,7 +40,7 @@ Before starting to solder the switches, remove any leftover loose metal from the
 | Seeed Studio XIAO| 02 | This The PCB is compatible with both the wireless and wired MCU, but the case currently only supports wired connection. So this is the one you need: [RP2040 version (wired)](https://www.seeedstudio.com/XIAO-RP2040-v1-0-p-5026.html) |
 | ULP Switch			 | 38 | Cherry MX ULP or Kailh PG1316s |
 | diodes 1N4148W   | 38 | These are surface mount diodes in SOD123 package |
-| 1u ULP keycaps	 | 38 | I had mine 3D Printed in PA12-HP Nylon from this repository [repository](https://github.com/mikeholscher/zmk-config-mikefive/tree/main/files/custom-keycaps) But you can also try to find commercial ones|
+| 1u ULP keycaps	 | 38 | I had mine 3D Printed in PA12-HP Nylon from this [repository](https://github.com/mikeholscher/zmk-config-mikefive/tree/main/files/custom-keycaps) But you can also try to find commercial ones|
 | reset button     | 02 | Alps SKHLLCA010 |
 | USB-C cable      | 01 | For connecting the keyboard to your PC |
 | TRRS jack        | 02 | MJ-4PP-9 or PJ320A (only required for the wired build)|
