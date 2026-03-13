@@ -1,6 +1,6 @@
 # Welcome!
 
-This repository is to make the files of my Totem (by GeiGeiGeist) mod available for people to download.
+This repository is to make the files of my Totem mod available for people to download.
 This Project contains parts of and is inspired by:
 - https://github.com/GEIGEIGEIST/TOTEM
 - https://github.com/unspecworks/delta-omega
