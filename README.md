@@ -2,8 +2,8 @@
 
 This repository is to make the files of my Totem (by GeiGeiGeist) mod available for people to download.
 This Project contains parts of and is inspired by:
-https://github.com/GEIGEIGEIST/TOTEM
-https://github.com/unspecworks/delta-omega
+- https://github.com/GEIGEIGEIST/TOTEM
+- https://github.com/unspecworks/delta-omega
 
 This mod was made to work with both Cherry MX ULP or Kailh PG1316s but was **only tested with the Cherry MX ULP's**
 Currently the Case supports **only wired builds** but the PCB itself should also be capable of being used wireless (**UNTESTED!**)
